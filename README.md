@@ -1,7 +1,5 @@
 # XRPLEVM 🚀
 
-![GitHub stars](https://img.shields.io/github/stars/Wizmithaaa/XRPLEVM?style=social) ![Version](https://img.shields.io/github/v/release/Wizmithaaa/XRPLEVM) ![License](https://img.shields.io/badge/license-MIT-blue)
-
 Welcome to the XRPLEVM repository! This project offers a comprehensive toolkit for working with the XRP Ledger in an EVM-compatible environment. You can auto-deploy contracts, send tokens, burn assets, swap currencies, bridge assets, add liquidity pools, and mint tokens with ease. 
 
 ## Features
